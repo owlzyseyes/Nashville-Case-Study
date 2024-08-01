@@ -15,7 +15,7 @@ From the visualisation generated at the end of the notebook, we can conclude tha
 ## Interactivity
 
 The final visualization is interactive so feel free to mess around with it to your heart's content. The interactive map is available [here](nashville_permits_map.html).
-Below is a static image of the map:
+
 ## P.S
 
 I had a lot of fun working on this project!
