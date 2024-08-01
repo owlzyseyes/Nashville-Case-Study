@@ -16,6 +16,8 @@ From the visualisation generated at the end of the notebook, we can conclude tha
 
 The final visualization is interactive so feel free to mess around with it to your heart's content. The interactive map is available [here](nashville_permits_map.html).
 Below is a static image of the map:
+![Nashville_permits_map](image.png)
+
 ## P.S
 
 I had a lot of fun working on this project!
