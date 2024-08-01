@@ -12,6 +12,10 @@ The data used in this case study was downloaded from the [Nashville Open data we
 
 From the visualisation generated at the end of the notebook, we can conclude that a greater number of building permits is issued to the council districts at the centre of the state with lesser being issued to the others.
 
+## Interactivity
+
+The final visualization is interactive so feel free to mess around with it to your heart's content. The interactive map is available [here](nashville_permits_map.html).
+Below is a static image of the map:
 ## P.S
 
-The final visualization is interactive so feel free to mess around with it to your heart's content. I had a lot of fun working on this project!
+I had a lot of fun working on this project!
